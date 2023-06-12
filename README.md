@@ -104,3 +104,6 @@ Those cards should also have the link for at least one project/article built wit
 - `Section`: cards with that label represent the section that we have in our curriculum.
 Those cards with the `Section` label are only to help the organization of the Done column.
 You should put the *Course's cards* below its respective *Section's card*.
+
+
+[Bachelor of Science in Computer Science, Birla Institute of Technology & Science, Pilani](https://www.coursera.org/degrees/bachelor-of-science-computer-science-bits/admissions)
